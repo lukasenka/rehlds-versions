@@ -1,0 +1,4 @@
+https://github.com/theAsmodai/metamod-r/releases - metamod r
+https://github.com/s1lentq/ReGameDLL_CS - regamedll
+https://www.amxmodx.org/amxxdrop/1.10 - amxx 1.10
+https://github.com/dreamstalker/rehlds/releases - rehlds
